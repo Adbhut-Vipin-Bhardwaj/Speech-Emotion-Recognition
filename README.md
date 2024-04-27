@@ -1,4 +1,4 @@
-This contains implementation of the following paper:
+This contains an implementation of [1] below. Done to gain practical experience with PyTorch.
 
 [1] Pepino, L., Riera, P., Ferrer, L.
 (2021) Emotion Recognition from Speech Using wav2vec 2.0 Embeddings.
